@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/java视频&amp;程序/WS_MOBILE_PAY_SDK_BASE/支付宝钱包支付接口开发包2.0标准版(20160516)/DEMO/服务端demo/JAVA-UTF-8/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/java视频&amp;程序/WS_MOBILE_PAY_SDK_BASE/支付宝钱包支付接口开发包2.0标准版(20160516)/DEMO/服务端demo/JAVA-UTF-8/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/java视频&amp;程序/WS_MOBILE_PAY_SDK_BASE/支付宝钱包支付接口开发包2.0标准版(20160516)/DEMO/服务端demo/JAVA-UTF-8/WebRoot/WEB-INF/lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
